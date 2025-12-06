@@ -1,5 +1,5 @@
 with open("kal.txt","w") as file:
-  file.write("helloworld")
+  file.write("hello world")
 with open("kal.txt") as file:
   content=file.read()
   print(content)
