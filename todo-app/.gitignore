@@ -1,15 +1,11 @@
-# Python cache
 __pycache__/
 *.pyc
 
-# Virtual environments
 venv/
 env/
 
-# Project data - DO NOT COMMIT
-todos.json
-
-# IDE files
 .vscode/
 .idea/
 .DS_Store
+
+todos.json
